@@ -1,5 +1,5 @@
 # Graphics
-ro.sf.lcd_density=480
+ro.sf.lcd_density=445
 
 # Sony RIL
 ro.sony.ril=1
