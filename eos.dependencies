@@ -38,5 +38,11 @@
     "repository": "SuperHanss/proprietary_vendor_sony",
     "target_path": "vendor/sony",
     "revision": "lp5.0"
+  },
+  {
+    "remote": "github",
+    "repository": "Christopher83/arm-cortex_a15-linux-gnueabihf-linaro_4.9",
+    "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.9-linaro",
+    "revision": "master"
   }
 ]
