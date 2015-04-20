@@ -11,12 +11,6 @@
   },
   {
     "remote": "github",
-    "repository": "CyanogenMod/android_device_sony_qcom-common",
-    "target_path": "device/sony/qcom-common",
-    "revision": "cm-12.0"
-  },
-  {
-    "remote": "github",
     "repository": "SuperHanss/device_sony_msm8960-common",
     "target_path": "device/sony/msm8960-common",
     "revision": "lp5.0"
@@ -41,8 +35,8 @@
   },
   {
     "remote": "github",
-    "repository": "TheMuppets/proprietary_vendor_sony",
+    "repository": "SuperHanss/proprietary_vendor_sony",
     "target_path": "vendor/sony",
-    "revision": "cm-12.0"
+    "revision": "lp5.0"
   }
 ]
