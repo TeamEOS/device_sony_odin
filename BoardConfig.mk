@@ -40,6 +40,6 @@ BOARD_HARDWARE_CLASS += device/sony/odin/cmhw
 TARGET_DISPLAY_GAMMA_DISABLED := true
 
 # TWRP
-DEVICE_RESOLUTION=1080x1920
+TW_THEME := portrait_hdpi
 TW_BRIGHTNESS_PATH := /sys/devices/i2c-0/0-0036/leds/lm3533-lcd-bl-1/brightness
 TW_SECONDARY_BRIGHTNESS_PATH := /sys/devices/i2c-0/0-0036/leds/lm3533-lcd-bl-2/brightness
