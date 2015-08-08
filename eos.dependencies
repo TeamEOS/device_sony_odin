@@ -25,6 +25,6 @@
     "remote": "github",
     "repository": "SuperHanss/proprietary_vendor_sony",
     "target_path": "vendor/sony",
-    "revision": "lollipop-mr1"
+    "revision": "lp5.1"
   }
 ]
