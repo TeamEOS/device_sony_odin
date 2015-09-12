@@ -22,6 +22,7 @@
 #
 #
 
+# Bootlogo
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_SCREEN_WIDTH := 1080
 
@@ -34,6 +35,6 @@ $(call inherit-product, device/sony/odin/odin.mk)
 # Set those variables here to overwrite the inherited values.
 PRODUCT_NAME := full_odin
 PRODUCT_DEVICE := odin
-PRODUCT_BRAND := Sony
+PRODUCT_BRAND := Android
+PRODUCT_MODEL := AOSP on Odin
 PRODUCT_MANUFACTURER := Sony
-PRODUCT_MODEL := Xperia ZL
