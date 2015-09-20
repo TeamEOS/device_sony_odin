@@ -1,6 +1,6 @@
 # Boot animation
 PRODUCT_COPY_FILES += \
-vendor/eos/prebuilt/common/bootanimation/1080.zip:system/media/bootanimation.zip
+vendor/eos/prebuilt/common/bootanimation/bootanimation.zip:system/media/bootanimation.zip
 
 # Inherit some common EOS stuff
 $(call inherit-product, vendor/eos/config/common_full_phone.mk)
