@@ -1,7 +1,6 @@
 # Graphics
 ro.sf.lcd_density=480
 
-# Sony RIL
-ro.sony.ril=1
+# RIL
 ril.subscription.types=NV,RUIM
 rild.libargs=-d /dev/smd0
