@@ -9,12 +9,6 @@
   },
   {
     "remote": "github",
-    "repository": "CyanogenMod/android_hardware_sony_DASH",
-    "target_path": "hardware/sony/DASH",
-    "revision": "cm-12.1"
-  },
-  {
-    "remote": "github",
     "repository": "SuperHanss/android_kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064",
     "revision": "lp5.1"
